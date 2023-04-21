@@ -18,7 +18,7 @@ links
 1) dependencias
 <a>https://mvnrepository.com/</a>
 
-2)ide
+2) ide
 https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2022-12/R/eclipse-inst-jre-win64.exe&mirror_id=576
 https://code.visualstudio.com/Download
 
