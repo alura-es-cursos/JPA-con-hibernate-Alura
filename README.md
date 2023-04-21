@@ -22,7 +22,3 @@ links
 https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2022-12/R/eclipse-inst-jre-win64.exe&mirror_id=576
 https://code.visualstudio.com/Download
 
-3) auxiliares
-<a>https://trello.com/b/yGQuuyVV/api-voll-med</a>
-<a>https://trello.com/b/yGQuuyVV/api-voll-med</a>
-<a href="[url](https://www.figma.com/file/vgn35i1ErivIN8LJYEqxGZ/Untitled?node-id=0-223&t=YNrx4H2YyxEWXQFb-0)">modelo en FiGMA</a
